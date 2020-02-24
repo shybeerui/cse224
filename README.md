@@ -1,5 +1,4 @@
-# cse224
-cse224 projects  
+# cse224 projects
 ***project1:***  
 &emsp; Writing your own web server  
 ***project2:***  
